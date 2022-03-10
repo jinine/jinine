@@ -1,0 +1,5 @@
+- @author jinine - CS student at BCIT _(Web and Mobile Development)_
+- My interests are: front-end implementation, UI/UX, 3d compositing, audio synthesis
+- My technologies: Java, Python, Houdini, Adobe Creative, React
+- linkedin: in/tristan-engen 
+- email: tengen@my.bcit.ca
