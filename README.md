@@ -10,7 +10,7 @@ I’m a versatile full-stack software engineer with expertise in Node.js, Python
 * 🖥️  See my portfolio at [Website](http://tristan.lim-e.com)
 * ✉️  You can contact me at [tristanengen1998@gmail.com](mailto:tristanengen1998@gmail.com)
 * 🧠  I'm learning Terraform, K8
-* ⚡  I love working in Javascript and C++
+* ⚡  I love working in Javascript and Python
 
 ### Skills
 
