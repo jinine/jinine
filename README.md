@@ -4,7 +4,7 @@ Hi 👋 My name is Tristan Engen
 Software Engineer
 -----------------
 
-I’m a versatile full-stack software engineer with expertise in Node.js, Python, React, and TypeScript. I build robust systems, from CRMs and form builders to game servers, while focusing on interoperability, security, and innovation. Passionate about blending creativity with strategy, I deliver solutions that align with organizational goals and drive practical impact.
+I build robust systems, from CRMs and form builders to game servers, while focusing on interoperability, security, and innovation. Passionate about blending creativity with strategy, I deliver solutions that align with organizational goals and drive practical impact.
 
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [Website](http://tristan.lim-e.com)
